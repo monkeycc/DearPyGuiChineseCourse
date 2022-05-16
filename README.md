@@ -39,6 +39,9 @@
  
 这里创建一个简单的示例
   
+<img width="177" alt="1" src="https://user-images.githubusercontent.com/6490927/168543045-9bb21a56-e6ff-427a-972d-d864a7de1eb8.png">
+
+  
 ```Python
 import dearpygui.dearpygui as dpg
 
