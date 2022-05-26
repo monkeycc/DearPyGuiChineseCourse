@@ -84,3 +84,7 @@ QQ 交流群
 582410579
 
 <img width="165" alt="微信截图_20220516154643" src="https://user-images.githubusercontent.com/6490927/168543996-90591289-d93b-4f0f-8986-f6e8190b6de1.png">
+  
+Widgets_Basic.py
+<img width="660" alt="微信截图_20220526220704" src="https://user-images.githubusercontent.com/6490927/170504266-b06566a6-458b-4421-99a3-963ff1bf958c.png">
+
