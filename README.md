@@ -90,3 +90,5 @@ QQ 交流群
   
 <img width="660" alt="微信截图_20220526220704" src="https://user-images.githubusercontent.com/6490927/170504266-b06566a6-458b-4421-99a3-963ff1bf958c.png">
 
+## Widgets_Combo.py
+  <img width="366" alt="微信截图_20220527210453" src="https://user-images.githubusercontent.com/6490927/170704830-b7dc19db-22b2-4d55-9ee8-cd01ef8e393b.png">
